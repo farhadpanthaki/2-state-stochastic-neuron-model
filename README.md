@@ -14,3 +14,7 @@ If in refractory stste, the state transition occurs after an exponentially distr
 
 Final output is a sequence of firings that depend on the input value. 
 
+References
+
+1. https://en.wikipedia.org/wiki/Biological_neuron_model#The_two-state_Markov_model_(Nossenson_&_Messer)
+
